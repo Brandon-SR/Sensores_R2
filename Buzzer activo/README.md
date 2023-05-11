@@ -1,1 +1,1 @@
-![Buzzer](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/db8c4bc6-45a1-4f42-8814-fb76e0864f22)
+![Buzzer](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/72cd22e2-fe68-4052-9a10-32712c0eee4f)
