@@ -1,1 +1,1 @@
-![HeartBeat](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/8cd88948-5d8a-4c67-8ba9-2475a91f1df4)
+![HeartBeat](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/19a46aa6-9c7c-407e-a63d-ded670862139)
