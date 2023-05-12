@@ -1,1 +1,1 @@
-![Rotary Encoder](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/32bce351-7825-4467-ad92-86821aa2be02)
+![Rotary Encoder](https://github.com/Brandon-SR/Sensores_R2/assets/132231023/e94fabcd-617d-4dc1-a61b-7e0e29c6b748)
